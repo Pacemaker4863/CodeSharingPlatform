@@ -1,0 +1,41 @@
+body {
+    margin: 15px;
+    background-color: rgb(20, 20, 30);
+    color: #f8f8f8;
+}
+
+pre {
+    width: 55%;
+    border: 1px black solid;
+    border-radius: 5px;
+    background-color: white;
+    padding: 5px;
+}
+
+#load_date {
+    font-size: 14px;
+    font-family: "Roboto Light", sans-serif;
+    font-weight: bolder;
+    color: green;
+}
+
+textarea {
+    width: 50%;
+    height: 150px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    font-size: 16px;
+    resize: none;
+}
+
+input text {
+    box-sizing: border-box;
+    padding: 12px 20px;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    font-size: 16px;
+}
